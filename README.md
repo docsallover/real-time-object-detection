@@ -47,6 +47,7 @@ For more details and tutorials, visit the website: [DocsAllOver](https://docsall
 Follow us on:
 - [Facebook](https://www.facebook.com/docsallover)
 - [Instagram](https://www.instagram.com/docsallover.tech/)
+- [X.com](https://www.x.com/docsallover/)
 - [LinkedIn](https://www.linkedin.com/company/docsallover/)
 - [YouTube](https://www.youtube.com/@docsallover)
 - [Threads.net](https://threads.net/docsallover.tech)
